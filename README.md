@@ -96,7 +96,7 @@ Capstone Project/
 ├── Paper1 - Bandi.pdf                       # Research Paper 1: EDA & Problem Framing
 ├── Paper2 - Bandi.pdf                       # Research Paper 2: ML Modeling
 ├── Paper3 - Bandi.pdf                       # Research Paper 3: DL & Final Analysis
-└── Proposal - Bandi.docx                   # Original project proposal
+└── Proposal - Bandi.pdf                   # Original project proposal
 ```
 
 ---
