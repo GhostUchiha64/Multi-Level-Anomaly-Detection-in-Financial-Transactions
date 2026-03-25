@@ -1,0 +1,6 @@
+model_name,baseline_auprc,optimized_auprc,improvement_pct,best_params,training_time
+Random Forest,0.8643,0.8635700883746343,-0.08445118886562769,"{'class_weight': 'balanced', 'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",352.523118019104
+XGBoost,0.8479,0.8686663665543649,2.4491527956557286,"{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200, 'scale_pos_weight': np.float64(1.0), 'subsample': 0.8, 'tree_method': 'hist'}",15.939441680908203
+Isolation Forest,0.2089,0.26927206580715995,28.899983631957856,"{'contamination': 0.00172, 'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",13.497578382492065
+Autoencoder,0.4606,0.4606,0.0,"{'architecture': [30, 20, 10, 20, 30]}",46.7377724647522
+LSTM,0.8021,0.813331385473333,1.400247534388843,"{'config': {'lstm1': 64, 'lstm2': 32, 'dense': 16}}",179.73931527137756
