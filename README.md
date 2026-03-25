@@ -93,10 +93,10 @@ Capstone Project/
 │       ├── plot_10_ml_comparison.png
 │       ├── plot_14_all_models_comparison.png
 │       └── ... (22 total plots)
+├── Proposal - Bandi.pdf                     # Original project proposal
 ├── Paper1 - Bandi.pdf                       # Research Paper 1: EDA & Problem Framing
 ├── Paper2 - Bandi.pdf                       # Research Paper 2: ML Modeling
-├── Paper3 - Bandi.pdf                       # Research Paper 3: DL & Final Analysis
-└── Proposal - Bandi.pdf                   # Original project proposal
+└── Paper3 - Bandi.pdf                       # Research Paper 3: DL & Final Analysis
 ```
 
 ---
